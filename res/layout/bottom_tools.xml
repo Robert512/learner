@@ -9,7 +9,7 @@
         android:layout_height="fill_parent"
         android:layout_weight="1.0"
         android:gravity="center"
-        android:text=" @我"
+        android:text="备忘录"
         android:textColor="#000000"
         android:textSize="20.0dip" />
 
@@ -19,7 +19,7 @@
         android:layout_height="fill_parent"
         android:layout_weight="1.0"
         android:gravity="center"
-        android:text="评论"
+        android:text="资源"
         android:textColor="#000000"
         android:textSize="20.0dip" />
 
@@ -29,7 +29,7 @@
         android:layout_height="fill_parent"
         android:layout_weight="1.0"
         android:gravity="center"
-        android:text="私信"
+        android:text="论坛"
         android:textColor="#000000"
         android:textSize="20.0dip" />
     
